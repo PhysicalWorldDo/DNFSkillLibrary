@@ -1,0 +1,15 @@
+{
+  "skill": "HopSmash",
+  "resource_paths": [
+    "sprite/character/swordman/effect/hopsmash/dusta.img",
+    "sprite/character/swordman/effect/hopsmash/glow.img",
+    "sprite/character/swordman/effect/hopsmash/grounddustb.img",
+    "sprite/character/swordman/effect/hopsmash/groundshocka.img",
+    "sprite/character/swordman/effect/hopsmash/groundshockb.img",
+    "sprite/character/swordman/effect/hopsmash/linea.img",
+    "sprite/character/swordman/effect/hopsmash/shockshapea.img",
+    "sprite/character/swordman/effect/hopsmash/swordtraila.img",
+    "sprite/character/swordman/effect/hopsmash/wavea.img",
+    "sprite/common/commoneffect2/glow/base_circle.img"
+  ]
+}

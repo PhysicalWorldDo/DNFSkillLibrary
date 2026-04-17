@@ -1,0 +1,15 @@
+{
+  "skill": "Rage_VP1",
+  "resource_paths": [
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/backsplat.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/dodgeslash2.img",
+    "sprite/character/swordman/effect/extreamblood/hitblood.img",
+    "sprite/character/swordman/effect/extreamblood/hitimpactblood.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_under.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_upper.img",
+    "sprite/character/swordman/effect/giveblood/sc_buff_dodge.img",
+    "sprite/character/swordman/effect/rage/attack02.img",
+    "sprite/character/swordman/effect/rage/attack03.img",
+    "sprite/character/swordman/effect/rage/trace.img"
+  ]
+}

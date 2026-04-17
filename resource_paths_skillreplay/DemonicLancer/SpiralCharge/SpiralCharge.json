@@ -1,0 +1,31 @@
+{
+  "skill": "SpiralCharge",
+  "resource_paths": [
+    "sprite/character/demoniclancer/effect/miragestance/miragestance.img",
+    "sprite/character/demoniclancer/effect/quickpunto/quickpunto.img",
+    "sprite/character/demoniclancer/effect/spiralcharge/spiralcharge_a.img",
+    "sprite/character/demoniclancer/effect/spiralcharge/spiralcharge_b.img",
+    "sprite/character/demoniclancer/effect/surroundbreak/atk1_01.img",
+    "sprite/character/demoniclancer/effect/surroundbreak/dust_01.img",
+    "sprite/character/demoniclancer/equipment/avatar/coat/dl_coat0000a.img",
+    "sprite/character/demoniclancer/equipment/avatar/coat/dl_coat0000b.img",
+    "sprite/character/demoniclancer/equipment/avatar/hair/dl_hair0000a.img",
+    "sprite/character/demoniclancer/equipment/avatar/pants/dl_pants0000b.img",
+    "sprite/character/demoniclancer/equipment/avatar/shoes/dl_shoes0000a.img",
+    "sprite/character/demoniclancer/equipment/avatar/skin/dl_body0000.img",
+    "sprite/character/demoniclancer/equipment/weapon/pike/dl_pike0000b.img",
+    "sprite/character/demoniclancer/equipment/weapon/pike/dl_pike0000c.img",
+    "sprite/character/demoniclancer/equipment/weapon/pike/dl_pike0000e.img",
+    "sprite/character/swordman/effect/atgigablade/giga_dash_eff.img",
+    "sprite/common/hiteffect/knocklarge.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/monster/dollmaster/masterdogri.img",
+    "sprite/interface2/mercenary/mercenary.img"
+  ]
+}

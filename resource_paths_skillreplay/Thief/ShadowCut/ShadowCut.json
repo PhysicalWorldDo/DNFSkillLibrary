@@ -1,0 +1,33 @@
+{
+  "skill": "ShadowCut",
+  "resource_paths": [
+    "sprite/character/thief/effect/criticaldodge.img",
+    "sprite/character/thief/effect/cutandgrabback.img",
+    "sprite/character/thief/equipment/avatar/belt/th_belt6400c.img",
+    "sprite/character/thief/equipment/avatar/cap/th_cap8800d.img",
+    "sprite/character/thief/equipment/avatar/coat/th_coat8000a.img",
+    "sprite/character/thief/equipment/avatar/coat/th_coat8000d.img",
+    "sprite/character/thief/equipment/avatar/face/th_face6700b.img",
+    "sprite/character/thief/equipment/avatar/hair/th_hair1800a.img",
+    "sprite/character/thief/equipment/avatar/hair/th_hair1800c.img",
+    "sprite/character/thief/equipment/avatar/hair/th_hair1800d.img",
+    "sprite/character/thief/equipment/avatar/neck/th_neck4102d.img",
+    "sprite/character/thief/equipment/avatar/neck/th_neck4102x.img",
+    "sprite/character/thief/equipment/avatar/pants/th_pants5500a.img",
+    "sprite/character/thief/equipment/avatar/pants/th_pants5500d.img",
+    "sprite/character/thief/equipment/avatar/shoes/th_shoes3000a.img",
+    "sprite/character/thief/equipment/weapon/dagger/dagger4400c.img",
+    "sprite/character/thief/equipment/weapon/dagger/dagger4400x.img",
+    "sprite/character/thief/equipment/avatar/skin/th_body0002.img",
+    "sprite/common/hiteffect/knocklarge.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/monster/dollmaster/masterdogri.img",
+    "sprite/interface2/mercenary/mercenary.img"
+  ]
+}

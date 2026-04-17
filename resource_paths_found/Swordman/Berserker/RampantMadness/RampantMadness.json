@@ -1,0 +1,29 @@
+{
+  "skill": "RampantMadness",
+  "resource_paths": [
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessblood.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodmist01.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodmist02.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodmist03.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodstone01.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodstone02.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodstone03.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodstone04.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnesscrack.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnesscracklight.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessdusthit.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessend01.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessend02.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessglow.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessgroundblood.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessslash01.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessslash02.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessslash03.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessstone.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnesssword01.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnesssword02.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnesssword05.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnesssword06.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnesssword07.img"
+  ]
+}

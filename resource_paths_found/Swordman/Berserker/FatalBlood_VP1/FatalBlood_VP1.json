@@ -1,0 +1,32 @@
+{
+  "skill": "FatalBlood_VP1",
+  "resource_paths": [
+    "sprite/character/swordman/effect/fatalblood/blood1hit.img",
+    "sprite/character/swordman/effect/fatalblood/blood2hit.img",
+    "sprite/character/swordman/effect/fatalblood/dustbehind1hit.img",
+    "sprite/character/swordman/effect/fatalblood/dustbehind2hit.img",
+    "sprite/character/swordman/effect/fatalblood/dustfront1hit.img",
+    "sprite/character/swordman/effect/fatalblood/dustfront2hit.img",
+    "sprite/character/swordman/effect/fatalblood/makesword.img",
+    "sprite/character/swordman/effect/fatalblood/sword.img",
+    "sprite/character/swordman/effect/fatalblood/swordtrail1hit.img",
+    "sprite/character/swordman/effect/fatalblood/swordtrail2hit.img",
+    "sprite/character/swordman/effect/fatalblood/vpshockwave1.img",
+    "sprite/character/swordman/effect/giveblood/sc_buff_dodge.img",
+    "sprite/common/commoneffect2/smoke/smoke086.img",
+    "sprite/character/swordman/effect/fatalblood/blood3hita.img",
+    "sprite/character/swordman/effect/fatalblood/blood3hitb.img",
+    "sprite/character/swordman/effect/fatalblood/blood3hitc.img",
+    "sprite/character/swordman/effect/fatalblood/dustbehind3hit.img",
+    "sprite/character/swordman/effect/fatalblood/dustfront3hit.img",
+    "sprite/character/swordman/effect/fatalblood/etc.img",
+    "sprite/character/swordman/effect/fatalblood/groundblood.img",
+    "sprite/character/swordman/effect/fatalblood/swordb.img",
+    "sprite/character/swordman/effect/fatalblood/sworddisappeara.img",
+    "sprite/character/swordman/effect/fatalblood/sworddisappearb.img",
+    "sprite/character/swordman/effect/fatalblood/swordtrail3hita.img",
+    "sprite/character/swordman/effect/fatalblood/swordtrail3hitb.img",
+    "sprite/character/swordman/effect/fatalblood/swordtrail3hitc.img",
+    "sprite/character/swordman/effect/fatalblood/swordtrail3hitd.img"
+  ]
+}

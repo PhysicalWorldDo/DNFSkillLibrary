@@ -1,0 +1,10 @@
+{
+  "skill": "Frenzy",
+  "resource_paths": [
+    "sprite/character/swordman/effect/frenzy/blood-energy.img",
+    "sprite/character/swordman/effect/frenzy/blood-start.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_under.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_upper.img",
+    "sprite/character/swordman/effect/frenzy/blood-spirits.img"
+  ]
+}

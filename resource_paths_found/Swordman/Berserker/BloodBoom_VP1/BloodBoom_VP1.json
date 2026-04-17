@@ -1,0 +1,26 @@
+{
+  "skill": "BloodBoom_VP1",
+  "resource_paths": [
+    "sprite/character/swordman/effect/bloodboom/vpbloodfall.img",
+    "sprite/character/swordman/effect/bloodboom/vpbottom.img",
+    "sprite/character/swordman/effect/bloodboom/vpexplosionback.img",
+    "sprite/character/swordman/effect/bloodboom/vpfocusback.img",
+    "sprite/character/swordman/effect/bloodboom/vpfocusfront.img",
+    "sprite/character/swordman/effect/bloodboom/vpsphere.img",
+    "sprite/character/swordman/effect/bloodboom/vpspiral.img",
+    "sprite/character/swordman/effect/bloodboom/vpwave.img",
+    "sprite/character/swordman/effect/bloodriven/bloodballexplosion.img",
+    "sprite/character/swordman/effect/bloodriven/bloodboomb.img",
+    "sprite/character/swordman/effect/bloodriven/bloodboomc.img",
+    "sprite/character/swordman/effect/bloodriven/flash.img",
+    "sprite/character/swordman/effect/bloodyrave/hita.img",
+    "sprite/character/swordman/effect/bloodyrave/vphitwave.img",
+    "sprite/character/swordman/effect/frenzy/blood-stone-0.img",
+    "sprite/character/swordman/effect/frenzy/blood-stone-start.img",
+    "sprite/character/swordman/effect/frenzy/blood-stone.img",
+    "sprite/character/swordman/effect/giveblood/sc_buff_dodge.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessend01.img",
+    "sprite/common/commoneffect/heal.img",
+    "sprite/common/commoneffect/healparticle.img"
+  ]
+}

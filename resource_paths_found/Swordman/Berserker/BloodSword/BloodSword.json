@@ -1,0 +1,18 @@
+{
+  "skill": "BloodSword",
+  "resource_paths": [
+    "sprite/character/swordman/effect/bloodsword/blooda.img",
+    "sprite/character/swordman/effect/bloodsword/bloodb.img",
+    "sprite/character/swordman/effect/bloodsword/body_dodge.img",
+    "sprite/character/swordman/effect/bloodsword/exp_dodge.img",
+    "sprite/character/swordman/effect/bloodsword/exp_normal.img",
+    "sprite/character/swordman/effect/bloodsword/n_wave.img",
+    "sprite/character/swordman/effect/bloodsword/sword_dodge.img",
+    "sprite/character/swordman/effect/bloodsword/sword_explosion01.img",
+    "sprite/character/swordman/effect/bloodsword/sword_normal.img",
+    "sprite/character/swordman/effect/guard/guard_attack_none.img",
+    "sprite/common/commoneffect/glow/circle.img",
+    "sprite/common/commoneffect/glow/circlering.img",
+    "sprite/common/commoneffect/wave/wave02.img"
+  ]
+}

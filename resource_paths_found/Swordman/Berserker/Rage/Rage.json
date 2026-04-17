@@ -1,0 +1,14 @@
+{
+  "skill": "Rage",
+  "resource_paths": [
+    "sprite/character/swordman/effect/frenzy/sword_blood_under.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_upper.img",
+    "sprite/character/swordman/effect/rage/attack01.img",
+    "sprite/character/swordman/effect/rage/attack02.img",
+    "sprite/character/swordman/effect/rage/attack03.img",
+    "sprite/character/swordman/effect/rage/cast.img",
+    "sprite/character/swordman/effect/rage/dust.img",
+    "sprite/character/swordman/effect/rage/shock.img",
+    "sprite/character/swordman/effect/rage/trace.img"
+  ]
+}

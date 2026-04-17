@@ -1,0 +1,31 @@
+{
+  "skill": "DamageLowKick",
+  "resource_paths": [
+    "sprite/character/fighter/atequipment/avatar/coat/fm_coat0000a.img",
+    "sprite/character/fighter/atequipment/avatar/coat/fm_coat0000d.img",
+    "sprite/character/fighter/atequipment/avatar/hair/fm_hair0000a.img",
+    "sprite/character/fighter/atequipment/avatar/pants/fm_pants0000a.img",
+    "sprite/character/fighter/atequipment/avatar/pants/fm_pants0000b.img",
+    "sprite/character/fighter/atequipment/avatar/shoes/fm_shoes0000b.img",
+    "sprite/character/fighter/atequipment/avatar/skin/fm_body0000.img",
+    "sprite/character/fighter/atequipment/growtype/striker.img",
+    "sprite/character/fighter/atequipment/growtype/striker_dodge.img",
+    "sprite/character/fighter/atequipment/weapon/boxglove/fm_bglove4004c.img",
+    "sprite/character/fighter/atequipment/weapon/boxglove/fm_bglove4004x.img",
+    "sprite/character/fighter/effect/atdamagelowkick/dlk_add01.img",
+    "sprite/common/commoneffect/wave/wave02.img",
+    "sprite/common/hiteffect/knocksmall.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_c.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile_ex.img",
+    "sprite/map/timegate/formacartel/formacartel_tablechair.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/monster/peterthepiper/gabagecan.img"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "skill": "SummonNyarly",
+  "resource_paths": [
+    "sprite/character/mage/atequipment/avatar/skin/mm_body80000.img",
+    "sprite/character/mage/atequipment/weapon/broom/mm_broom2601d.img",
+    "sprite/character/mage/effect/atdimensionhollow/behind.img",
+    "sprite/character/mage/effect/atdimensionhollow/dodge.img",
+    "sprite/character/mage/effect/atdimensionhollow/front.img",
+    "sprite/character/mage/effect/atnyarly/heart.img",
+    "sprite/character/mage/effect/atnyarly/nyarlybody.img",
+    "sprite/character/mage/effect/atnyarly/nyarlywhip.img",
+    "sprite/character/mage/effect/atnyarly/projectile.img",
+    "sprite/character/mage/effect/atnyarly/summonbehind.img",
+    "sprite/character/mage/effect/atnyarly/summonfront.img",
+    "sprite/character/mage/effect/atnyarly/whip.img",
+    "sprite/character/swordman/effect/atdeadlycape/exp_normal_0.img",
+    "sprite/common/commoneffect/status_effect/mmdefense.img",
+    "sprite/common/etc/castinggage.img",
+    "sprite/common/hiteffect/elementalhiteffect/none_normal.img",
+    "sprite/common/hiteffect/knocklarge.img",
+    "sprite/common/hiteffect/knocksmall.img",
+    "sprite/common/hiteffect/unionhit.img",
+    "sprite/interface2/mercenary/mercenary.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/monster/dollmaster/masterdogri.img"
+  ]
+}

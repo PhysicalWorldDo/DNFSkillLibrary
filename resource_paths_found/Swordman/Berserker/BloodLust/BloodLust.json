@@ -1,0 +1,22 @@
+{
+  "skill": "BloodLust",
+  "resource_paths": [
+    "sprite/character/swordman/effect/grabblastblood/blood-dodge.img",
+    "sprite/character/swordman/effect/grabblastblood/blood-normal.img",
+    "sprite/character/swordman/effect/grabblastblood/impact-dodge.img",
+    "sprite/character/swordman/effect/grabblastblood/impact-normal.img",
+    "sprite/character/swordman/effect/grabblastblood/bl01.img",
+    "sprite/character/swordman/effect/grabblastblood/bl02.img",
+    "sprite/character/swordman/effect/grabblastblood/blood.img",
+    "sprite/character/swordman/effect/grabblastblood/bloodboom_boomback.img",
+    "sprite/character/swordman/effect/grabblastblood/bloodboom_boomfront.img",
+    "sprite/character/swordman/effect/grabblastblood/gbbm_dustr4.img",
+    "sprite/character/swordman/effect/grabblastblood/gbbm_fluid.img",
+    "sprite/character/swordman/effect/grabblastblood/gbbm_splash.img",
+    "sprite/character/swordman/effect/grabblastblood/gbbm_suction.img",
+    "sprite/character/swordman/effect/grabblastblood/normal.img",
+    "sprite/character/swordman/effect/grabblastblood/gbbm_fluidblack.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_boomback.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_boomfront.img"
+  ]
+}

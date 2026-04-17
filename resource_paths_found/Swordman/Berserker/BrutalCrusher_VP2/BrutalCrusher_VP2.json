@@ -1,0 +1,33 @@
+{
+  "skill": "BrutalCrusher_VP2",
+  "resource_paths": [
+    "sprite/character/swordman/effect/brutalcrusher/blooda.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodb.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodc.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodd.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloode.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodf.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodg.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodsworda.img",
+    "sprite/character/swordman/effect/brutalcrusher/dusta.img",
+    "sprite/character/swordman/effect/brutalcrusher/groundcracka.img",
+    "sprite/character/swordman/effect/brutalcrusher/shockshapea.img",
+    "sprite/character/swordman/effect/brutalcrusher/shockshapeb.img",
+    "sprite/character/swordman/effect/brutalcrusher/shockshapec.img",
+    "sprite/character/swordman/effect/brutalcrusher/shockwavea.img",
+    "sprite/character/swordman/effect/brutalcrusher/swordtraila.img",
+    "sprite/character/swordman/effect/hopsmash/glow.img",
+    "sprite/character/swordman/effect/infinitykilling/startbladeshine.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessblood.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessbloodmist03.img",
+    "sprite/character/thief/effect/yatagarasu/0909.img",
+    "sprite/common/commoneffect2/smoke2d/smoke2d_006.img",
+    "sprite/common/commoneffect2/stone/stone001.img",
+    "sprite/common/commoneffect2/stone/stone023.img",
+    "sprite/common/commoneffect2/stone/stone025.img",
+    "sprite/common/commoneffect2/stone/stone026.img",
+    "sprite/common/commoneffect2/wave/wave000.img",
+    "sprite/common/commoneffect2/wave/wave001.img",
+    "sprite/contents/2022/machinerevolution/monster/bakal/effect/shockshapec.img"
+  ]
+}

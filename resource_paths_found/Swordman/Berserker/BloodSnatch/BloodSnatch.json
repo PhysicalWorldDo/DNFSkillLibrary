@@ -1,0 +1,25 @@
+{
+  "skill": "BloodSnatch",
+  "resource_paths": [
+    "sprite/character/knight/effect/dragonburst/crack_dodge.img",
+    "sprite/character/knight/effect/dragonburst/rock1.img",
+    "sprite/character/swordman/effect/atblackmirror/glow.img",
+    "sprite/character/swordman/effect/bloodsnatch/bloodwave.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom1_normal.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom2_dodge.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom3_normal.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom4_dodge.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom5_dodge.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom6_dodge.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom7_dodge.img",
+    "sprite/character/swordman/effect/bloodsnatch/boom8_normal.img",
+    "sprite/character/swordman/effect/bloodsnatch/dust.img",
+    "sprite/character/swordman/effect/bloodsnatch/hand_eff.img",
+    "sprite/character/swordman/effect/bloodsnatch/shockwave.img",
+    "sprite/character/swordman/effect/bloodsnatch/shot2.img",
+    "sprite/character/swordman/effect/bloodsnatch/slash.img",
+    "sprite/character/swordman/effect/bloodsnatch/spin.img",
+    "sprite/character/swordman/effect/bloodsnatch/dash_normal.img",
+    "sprite/character/fighter/effect/chaindestruction/00_dash_dust.img"
+  ]
+}

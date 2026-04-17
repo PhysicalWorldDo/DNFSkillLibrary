@@ -1,0 +1,26 @@
+{
+  "skill": "CrowlingMyst",
+  "resource_paths": [
+    "sprite/character/mage/atequipment/avatar/skin/mm_body80000.img",
+    "sprite/character/mage/atequipment/weapon/broom/mm_broom2601d.img",
+    "sprite/character/mage/effect/atcrowlingmist/end_success.img",
+    "sprite/character/mage/effect/atcrowlingmist/mist.img",
+    "sprite/character/mage/effect/atcrowlingmist/shootdust.img",
+    "sprite/character/mage/effect/atdimensionhollow/behind.img",
+    "sprite/character/mage/effect/atdimensionhollow/dodge.img",
+    "sprite/character/mage/effect/atdimensionhollow/front.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_c.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile_ex.img",
+    "sprite/map/timegate/formacartel/formacartel_tablechair.img",
+    "sprite/map/village/aganzo/aganzo_chair.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/monster/peterthepiper/gabagecan.img"
+  ]
+}

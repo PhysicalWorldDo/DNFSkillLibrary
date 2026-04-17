@@ -1,0 +1,18 @@
+{
+  "skill": "OutRageBreak_VP2",
+  "resource_paths": [
+    "sprite/character/swordman/effect/giveblood/sc_blood.img",
+    "sprite/character/swordman/effect/giveblood/sc_buff_dodge.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_bloodsexp_1_ldodge.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_bloodsexp_1_none.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_bloodsexp_2_ldodge.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_bloodsexp_2_none.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_bloodsexp_glow.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_bloodsword_ldodge.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_bloodsword_none.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_drops_1.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_drops_2.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_floor.img",
+    "sprite/character/swordman/effect/outragebreak/outragebreak_part.img"
+  ]
+}

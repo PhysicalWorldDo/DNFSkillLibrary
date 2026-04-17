@@ -1,0 +1,23 @@
+{
+  "skill": "Hiss",
+  "resource_paths": [
+    "interface/windowcommon.img",
+    "sprite/character/archer/effect/hiss/hissaura.img",
+    "sprite/character/archer/effect/hiss/monsterfur.img",
+    "sprite/character/archer/effect/hiss/toothauradown.img",
+    "sprite/character/archer/effect/hiss/toothauraupper.img",
+    "sprite/character/archer/effect/vigilantemonsterform/vigilantemonsterform.img",
+    "sprite/character/gunner/effect/eternalbuster/ebsmoke3.img",
+    "sprite/common/commoneffect/bufficon.img",
+    "sprite/common/commoneffect/selfbuff.img",
+    "sprite/common/commoneffect2/mist/mist009.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile_ex.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/dollmaster/masterdogri.img"
+  ]
+}

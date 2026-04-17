@@ -1,0 +1,23 @@
+{
+  "skill": "BloodScratch",
+  "resource_paths": [
+    "sprite/character/swordman/effect/bloodscratch/swordtraila.img",
+    "sprite/character/swordman/effect/bloodscratch/swordtrailb.img",
+    "sprite/character/swordman/effect/bloodscratch/swordtrailc.img",
+    "sprite/character/swordman/effect/bloodscratch/swordtraild.img",
+    "sprite/character/swordman/effect/chagecrashex/shockshapea.img",
+    "sprite/character/swordman/effect/fatalblood/blood1hit.img",
+    "sprite/character/swordman/effect/fatalblood/blood2hit.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_under.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_upper.img",
+    "sprite/character/swordman/effect/gorecross/berserkerswordlv95b.img",
+    "sprite/character/swordman/effect/gorecross/berserkerswordlv95c.img",
+    "sprite/character/swordman/effect/hopsmash/glow.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessblood.img",
+    "sprite/common/commoneffect2/smoke/smoke042.img",
+    "sprite/common/commoneffect2/smoke/smoke086.img",
+    "sprite/common/commoneffect2/smoke/smoke092.img",
+    "sprite/common/commoneffect2/smoke/smoke120.img",
+    "sprite/common/commoneffect2/smoke/smoke170.img"
+  ]
+}

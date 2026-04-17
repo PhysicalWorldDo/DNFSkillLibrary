@@ -1,0 +1,30 @@
+{
+  "skill": "CorePraxis",
+  "resource_paths": [
+    "sprite/character/gunblader/effect/corepraxis/corelight.img",
+    "sprite/character/gunblader/effect/corepraxis/residue.img",
+    "sprite/character/gunblader/equipment/avatar/belt/gb_belt0000a.img",
+    "sprite/character/gunblader/equipment/avatar/coat/gb_coat0000a.img",
+    "sprite/character/gunblader/equipment/avatar/coat/gb_coat0000b.img",
+    "sprite/character/gunblader/equipment/avatar/coat/gb_coat0000c.img",
+    "sprite/character/gunblader/equipment/avatar/face/gb_face0000b.img",
+    "sprite/character/gunblader/equipment/avatar/hair/gb_hair0000a.img",
+    "sprite/character/gunblader/equipment/avatar/pants/gb_pants0000a.img",
+    "sprite/character/gunblader/equipment/avatar/shoes/gb_shoes0000a.img",
+    "sprite/character/gunblader/equipment/avatar/skin/gb_body0000.img",
+    "sprite/character/gunblader/equipment/custom/subweapon/gb_subweapon0400b.img",
+    "sprite/character/gunblader/equipment/custom/subweapon/gb_subweapon0400x.img",
+    "sprite/character/gunblader/equipment/growtype/specialist_1s01.img",
+    "sprite/character/gunblader/equipment/weapon/coreswd/gb_coreswd0802b.img",
+    "sprite/character/gunblader/equipment/weapon/coreswd/gb_coreswd0802c.img",
+    "sprite/common/commoneffect/bufficon.img",
+    "sprite/common/commoneffect/selfbuff.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/dollmaster/masterdogri.img"
+  ]
+}

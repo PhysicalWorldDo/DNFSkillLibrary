@@ -1,0 +1,16 @@
+{
+  "skill": "BloodSwirl",
+  "resource_paths": [
+    "sprite/character/swordman/effect/cruelengage/blooda.img",
+    "sprite/character/swordman/effect/cruelengage/slashb.img",
+    "sprite/character/swordman/effect/cruelengage/eyelight.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessgroundblood.img",
+    "sprite/common/commoneffect2/crack/crack001.img",
+    "sprite/character/swordman/effect/cruelengage/bloodsmoke.img",
+    "sprite/character/swordman/effect/cruelengage/slasha.img",
+    "sprite/character/swordman/effect/cruelengage/slashcdodge.img",
+    "sprite/character/swordman/effect/cruelengage/slashcnormal.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessblood.img",
+    "sprite/common/commoneffect2/stone/stone022.img"
+  ]
+}

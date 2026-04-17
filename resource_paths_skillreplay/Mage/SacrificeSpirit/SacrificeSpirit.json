@@ -1,0 +1,32 @@
+{
+  "skill": "SacrificeSpirit",
+  "resource_paths": [
+    "sprite/character/mage/effect/sacrificespirit/kill-dodge.img",
+    "sprite/character/mage/effect/sacrificespirit/kill-dodge2.img",
+    "sprite/character/mage/effect/sacrificespirit/kill-normal.img",
+    "sprite/character/mage/effect/summonmonsteraura/monstermc.img",
+    "sprite/character/mage/equipment/avatar/belt/mg_belt10500c.img",
+    "sprite/character/mage/equipment/avatar/cap/mg_cap13800c.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat13700a.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat13700b.img",
+    "sprite/character/mage/equipment/avatar/face/mg_face11200a.img",
+    "sprite/character/mage/equipment/avatar/face/mg_face11200b.img",
+    "sprite/character/mage/equipment/avatar/hair/mg_hair12100a.img",
+    "sprite/character/mage/equipment/avatar/hair/mg_hair12100b.img",
+    "sprite/character/mage/equipment/avatar/neck/mg_neck11600b.img",
+    "sprite/character/mage/equipment/avatar/pants/mg_pants12600d.img",
+    "sprite/character/mage/equipment/avatar/shoes/mg_shoes12100a.img",
+    "sprite/character/mage/equipment/avatar/shoes/mg_shoes12100b.img",
+    "sprite/character/mage/equipment/weapon/rod/mg_rod3800d.img",
+    "sprite/character/mage/equipment/avatar/skin/mg_body0004.img",
+    "sprite/common/etc/castinggage.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/dollmaster/masterdogri.img",
+    "sprite/interface2/mercenary/mercenary.img"
+  ]
+}

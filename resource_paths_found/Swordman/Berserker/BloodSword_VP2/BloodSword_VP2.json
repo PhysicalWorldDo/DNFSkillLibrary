@@ -1,0 +1,30 @@
+{
+  "skill": "BloodSword_VP2",
+  "resource_paths": [
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/attackhit.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/blackbloodexp001.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/blackbloodexp002.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/blackbloodexp004.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/bloodboomnormal.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/bloodexp001.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/bloodexp003.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/bloodsphere001.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/exp_dodge.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/exp_normal.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/glow.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/new18.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/rampantmadnessend02.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/shock.img",
+    "sprite/character/equipmenteffect/105lv_equipment/character/berserker/waveb.img",
+    "sprite/character/swordman/effect/bloodsword/sword_dodge.img",
+    "sprite/character/swordman/effect/bloodsword/sword_explosion01.img",
+    "sprite/character/swordman/effect/bloodsword/sword_normal.img",
+    "sprite/character/swordman/effect/extreamblood/hitblood.img",
+    "sprite/character/swordman/effect/giveblood/sc_blood.img",
+    "sprite/character/swordman/effect/giveblood/sc_buff_dodge.img",
+    "sprite/character/swordman/effect/guard/guard_attack_none.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessend01.img",
+    "sprite/common/commoneffect/heal.img",
+    "sprite/common/commoneffect/healparticle.img"
+  ]
+}

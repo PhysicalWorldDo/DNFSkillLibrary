@@ -1,0 +1,31 @@
+{
+  "skill": "QuickStanding",
+  "resource_paths": [
+    "sprite/character/gunner/effect/bullet/pistol.img",
+    "sprite/character/mage/equipment/avatar/cap/mg_cap10300a.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat0000a.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat0000b.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat0000c.img",
+    "sprite/character/mage/equipment/avatar/hair/mg_hair0000a.img",
+    "sprite/character/mage/equipment/avatar/hair/mg_hair0000b.img",
+    "sprite/character/mage/equipment/avatar/pants/mg_pants0000a.img",
+    "sprite/character/mage/equipment/avatar/pants/mg_pants0000d.img",
+    "sprite/character/mage/equipment/avatar/shoes/mg_shoes0000a.img",
+    "sprite/character/mage/equipment/avatar/shoes/mg_shoes0000b.img",
+    "sprite/character/mage/equipment/avatar/skin/mg_body0000.img",
+    "sprite/character/mage/equipment/growtype/witch.img",
+    "sprite/common/commoneffect/new_dust.img",
+    "sprite/common/commoneffect/quicks.img",
+    "sprite/common/etc/castinggage.img",
+    "sprite/common/hiteffect/knocklarge.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/monster/dollmaster/masterdogri.img",
+    "sprite/interface2/mercenary/mercenary.img",
+    "sprite/monster/peterthepiper/gabagecan.img"
+  ]
+}

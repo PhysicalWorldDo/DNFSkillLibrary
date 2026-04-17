@@ -1,0 +1,33 @@
+{
+  "skill": "MpRegenRateUp",
+  "resource_paths": [
+    "sprite/character/mage/equipment/avatar/cap/mg_cap10300a.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat0000a.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat0000b.img",
+    "sprite/character/mage/equipment/avatar/coat/mg_coat0000c.img",
+    "sprite/character/mage/equipment/avatar/hair/mg_hair0000a.img",
+    "sprite/character/mage/equipment/avatar/hair/mg_hair0000b.img",
+    "sprite/character/mage/equipment/avatar/pants/mg_pants0000a.img",
+    "sprite/character/mage/equipment/avatar/shoes/mg_shoes0000a.img",
+    "sprite/character/mage/equipment/avatar/shoes/mg_shoes0000b.img",
+    "sprite/character/mage/equipment/avatar/skin/mg_body0000.img",
+    "sprite/character/mage/equipment/weapon/rod/mg_rod3800d.img",
+    "sprite/common/commoneffect/bufficon.img",
+    "sprite/common/commoneffect/selfbuff.img",
+    "sprite/common/commoneffect/status_effect/mpre.img",
+    "sprite/common/etc/castinggage.img",
+    "sprite/map/timegate/formacartel/formacartel_tablechair.img",
+    "sprite/map/village/aganzo/aganzo_chair.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_c.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/interface2/mercenary/mercenary.img",
+    "sprite/monster/peterthepiper/gabagecan.img"
+  ]
+}

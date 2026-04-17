@@ -1,0 +1,31 @@
+{
+  "skill": "Rage_VP2",
+  "resource_paths": [
+    "sprite/character/mage/effect/atextremityperish/bexplosion5.img",
+    "sprite/character/mage/effect/atextremityperish/bloodsplatter2.img",
+    "sprite/character/mage/effect/atextremityperish/bloodsplatter3.img",
+    "sprite/character/swordman/effect/bloodriven/bloodbooma.img",
+    "sprite/character/swordman/effect/bloodriven/bloodboomb.img",
+    "sprite/character/swordman/effect/bloodriven/bottomblood.img",
+    "sprite/character/swordman/effect/bloodriven/shockwave.img",
+    "sprite/character/swordman/effect/brutalcrusher/blooda.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodb.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodc.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodf.img",
+    "sprite/character/swordman/effect/brutalcrusher/bloodh.img",
+    "sprite/character/swordman/effect/brutalcrusher/shockwavea.img",
+    "sprite/character/swordman/effect/frenzy/sword_blood_under.img",
+    "sprite/character/swordman/effect/giveblood/sc_buff_dodge.img",
+    "sprite/character/swordman/effect/rage/glow.img",
+    "sprite/character/swordman/effect/rage/shock.img",
+    "sprite/character/swordman/effect/rage/slasha1.img",
+    "sprite/character/swordman/effect/rage/slasha2.img",
+    "sprite/character/swordman/effect/rage/slashdown.img",
+    "sprite/character/swordman/effect/rage/slashexplosion.img",
+    "sprite/character/swordman/effect/rage/slashgrond.img",
+    "sprite/character/swordman/effect/rage/slashmte.img",
+    "sprite/character/swordman/effect/rampantmadness/rampantmadnessend02.img",
+    "sprite/common/commoneffect/heal.img",
+    "sprite/common/commoneffect/healparticle.img"
+  ]
+}

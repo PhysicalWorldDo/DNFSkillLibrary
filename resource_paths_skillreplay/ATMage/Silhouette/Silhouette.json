@@ -1,0 +1,31 @@
+{
+  "skill": "Silhouette",
+  "resource_paths": [
+    "sprite/character/mage/atequipment/avatar/skin/mm_body80000.img",
+    "sprite/character/mage/atequipment/weapon/broom/mm_broom2601d.img",
+    "sprite/character/mage/atequipment/weapon/broom/mm_broom2609d.img",
+    "sprite/character/mage/effect/atdimensionhollow/behind.img",
+    "sprite/character/mage/effect/atdimensionhollow/dodge.img",
+    "sprite/character/mage/effect/atdimensionhollow/front.img",
+    "sprite/character/mage/effect/atsilhouette/avatar.img",
+    "sprite/character/mage/effect/atsilhouette/boom.img",
+    "sprite/character/mage/effect/atsilhouette/eventhorizonboom.img",
+    "sprite/character/mage/effect/atsilhouette/eventhorizongrab.img",
+    "sprite/common/commoneffect/bufficon.img",
+    "sprite/common/commoneffect/new_dust.img",
+    "sprite/common/commoneffect/selfbuff.img",
+    "sprite/common/etc/castinggage.img",
+    "sprite/common/hiteffect/elementalhiteffect/none_normal.img",
+    "sprite/common/hiteffect/knocklarge.img",
+    "sprite/interface2/mercenary/mercenary.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/map/chn_pvp/chn_studio/pungjin.img",
+    "sprite/monster/cartel/normalsoldier.img",
+    "sprite/monster/dollmaster/masterdogri.img",
+    "sprite/monster/peterthepiper/gabagecan.img"
+  ]
+}

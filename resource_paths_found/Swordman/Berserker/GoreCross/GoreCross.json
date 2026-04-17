@@ -1,0 +1,21 @@
+{
+  "skill": "GoreCross",
+  "resource_paths": [
+    "sprite/character/swordman/effect/gorecross/crossa1.img",
+    "sprite/character/swordman/effect/gorecross/crossa2.img",
+    "sprite/character/swordman/effect/gorecross/crossb1.img",
+    "sprite/character/swordman/effect/gorecross/crossb2.img",
+    "sprite/character/swordman/effect/gorecross/crossc1.img",
+    "sprite/character/swordman/effect/gorecross/crossc2.img",
+    "sprite/character/swordman/effect/gorecross/crossd1.img",
+    "sprite/character/swordman/effect/gorecross/crossd2.img",
+    "sprite/character/swordman/effect/gorecross/gorecross_slash.img",
+    "sprite/character/swordman/effect/gorecross/shockshapea.img",
+    "sprite/character/swordman/effect/gorecross/slasha.img",
+    "sprite/character/swordman/effect/gorecross/gcm_slash.img",
+    "sprite/character/swordman/effect/gorecross/swordtrail3hitd.img",
+    "sprite/character/swordman/effect/gorecross/gcm_crossline.img",
+    "sprite/character/swordman/effect/gorecross/berserkerswordlv95b.img",
+    "sprite/character/swordman/effect/gorecross/berserkerswordlv95c.img"
+  ]
+}

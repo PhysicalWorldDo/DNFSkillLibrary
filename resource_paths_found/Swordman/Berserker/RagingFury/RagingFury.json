@@ -1,0 +1,11 @@
+{
+  "skill": "RagingFury",
+  "resource_paths": [
+    "sprite/character/swordman/effect/blastblood/b-01.img",
+    "sprite/character/swordman/effect/blastblood/b-02-d.img",
+    "sprite/character/swordman/effect/blastblood/blood-back.img",
+    "sprite/character/swordman/effect/blastblood/blood-d1.img",
+    "sprite/character/swordman/effect/blastblood/blood-d2.img",
+    "sprite/character/swordman/effect/blastblood/bloodred.img"
+  ]
+}

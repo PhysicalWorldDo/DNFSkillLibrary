@@ -1,0 +1,32 @@
+{
+  "skill": "Cure",
+  "resource_paths": [
+    "sprite/character/mage/effect/disenchant/black2_normal.img",
+    "sprite/character/mage/effect/disenchant/color2_dodge.img",
+    "sprite/character/mage/effect/disenchant/white2_dodge.img",
+    "sprite/character/priest/atequipment/avatar/coat/pg_coat0000a.img",
+    "sprite/character/priest/atequipment/avatar/coat/pg_coat0000b.img",
+    "sprite/character/priest/atequipment/avatar/coat/pg_coat0000c.img",
+    "sprite/character/priest/atequipment/avatar/hair/pg_hair0000a.img",
+    "sprite/character/priest/atequipment/avatar/hair/pg_hair0000b.img",
+    "sprite/character/priest/atequipment/avatar/pants/pg_pants0000a.img",
+    "sprite/character/priest/atequipment/avatar/pants/pg_pants0000d.img",
+    "sprite/character/priest/atequipment/avatar/shoes/pg_shoes0000a.img",
+    "sprite/character/priest/atequipment/avatar/skin/pg_body0000.img",
+    "sprite/character/priest/atequipment/growtype/atcrusader_1st/01_cross.img",
+    "sprite/character/priest/atequipment/weapon/cross/pg_cross0000c.img",
+    "sprite/character/priest/atequipment/weapon/cross/pg_cross0000d.img",
+    "sprite/common/commoneffect/cure/down.img",
+    "sprite/common/commoneffect/cure/start.img",
+    "sprite/common/commoneffect/cure/up.img",
+    "sprite/common/etc/castinggage.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/atfighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_a.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_b.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_g.img",
+    "sprite/map/chn_pvp/chn_studio/fighter_m.img",
+    "sprite/map/chn_pvp/chn_studio/map1_tile.img",
+    "sprite/monster/peterthepiper/gabagecan.img"
+  ]
+}

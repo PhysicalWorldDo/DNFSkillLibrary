@@ -1,0 +1,16 @@
+{
+  "skill": "BloodBoom",
+  "resource_paths": [
+    "sprite/character/priest/effect/bluedragon/exp_nova.img",
+    "sprite/character/swordman/effect/attimeslash/timeslash_circle.img",
+    "sprite/character/swordman/effect/blastbloodex/end_blood.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_boomback.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_boomfront.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_casting.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_casting_back.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_finish.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_finish2.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_finish3.img",
+    "sprite/character/swordman/effect/bloodboom/bloodboom_shock.img"
+  ]
+}
